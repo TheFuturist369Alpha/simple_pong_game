@@ -1,0 +1,14 @@
+﻿  FirstGame2.cpp
+C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\FirstPongGame2\FirstGame2.cpp(97,31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\FirstPongGame2\FirstGame2.cpp(97,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\FirstPongGame2\FirstGame2.cpp(97,41): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\FirstPongGame2\FirstGame2.cpp(97,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\FirstPongGame2\FirstGame2.cpp(99,31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\FirstPongGame2\FirstGame2.cpp(99,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\FirstPongGame2\FirstGame2.cpp(99,41): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\FirstPongGame2\FirstGame2.cpp(99,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\FirstPongGame2\FirstGame2.cpp(101,24): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\FirstPongGame2\FirstGame2.cpp(101,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\FirstPongGame2\FirstGame2.cpp(101,31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\FirstPongGame2\FirstGame2.cpp(101,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FirstPongGame2.vcxproj -> C:\Users\RISSY\Desktop\VsCpp Projects\FirstPongGame2\x64\Debug\FirstPongGame2.exe
